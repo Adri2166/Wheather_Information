@@ -8,9 +8,8 @@ Allows users to input the city of their choice.
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/weather-app.git
+
+git clone (https://github.com/Adri2166/Wheather_Information.git)
 Install the required dependencies using pip:
 
 Copy code
